@@ -1,11 +1,3 @@
-
-// var btn=document.getElementById('btn');
-// btn.onclick=function(){
-//         location.href="./launch.html"
-   
-// }
-
-
 var video = document.querySelector("#video-camera");
 var camera = window.localStorage.getItem('camera')
 
