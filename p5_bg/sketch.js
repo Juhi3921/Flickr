@@ -82,7 +82,7 @@ function Stream() {
   };
 }
 
-// Update Canvas
+
 function draw() {
   background(254, 242, 220, 400); //223,222,212,
 
